@@ -1,4 +1,4 @@
-![Hi, I’m Amit (@ampratapsingh). Applied AI and full-stack development.](<img width="1440" height="470" alt="profile-banner" src="https://github.com/user-attachments/assets/e5b495b9-61f6-4c0c-819f-fa1454ae50eb" />)
+![Hi, I’m Amit (@ampratapsingh). Applied AI and full-stack development.](./profile-banner.png)
 
 I build AI tools that help people search codebases, turn plain-English questions into SQL, and automate repetitive work. I’m especially interested in what happens around the model, from gathering context to evaluating the result.
 
